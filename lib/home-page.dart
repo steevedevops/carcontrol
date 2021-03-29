@@ -61,7 +61,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
                             SizedBox(width: 20),
                             Container(
                               height: 50,
-                              child: Text('MARCHAS',
+                              child: Text('MARCHA',
                                 style: TextStyle(
                                   fontSize: 30,
                                   fontWeight: FontWeight.bold
